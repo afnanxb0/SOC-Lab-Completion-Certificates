@@ -72,9 +72,9 @@ Execute basic incident response commands and analyse the output.
 ## <a href="https://elearning.securityblue.team/public/lab-certificate/ffa0cc81-58f4-4940-a951-94de36d7c19f">DeepBlueCLI For Event Log Analysis</a>
 Use DeepBlueCLI to quickly triage Windows Event logs for signs of malicious activity.
 
-<a href="https://elearning.securityblue.team/public/lab-certificate/97449d84-2ab5-4a82-853c-e4311739b033">TheHive: Case Management</a>
+## <a href="https://elearning.securityblue.team/public/lab-certificate/97449d84-2ab5-4a82-853c-e4311739b033">TheHive: Case Management</a>
 Use TheHive case management tool to investigate cases, tasks, IOCs, and more.
 
 # Threat Intelligence
-<a href="https://elearning.securityblue.team/public/lab-certificate/36fe6660-8536-4d29-8e6a-793dbc8c0eac">Threat Intel Platform: MISP</a>
+## <a href="https://elearning.securityblue.team/public/lab-certificate/36fe6660-8536-4d29-8e6a-793dbc8c0eac">Threat Intel Platform: MISP</a>
 Get hands-on with MISP and conduct threat intelligence analysis and research using this TIP.
