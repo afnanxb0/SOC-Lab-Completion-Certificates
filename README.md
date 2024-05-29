@@ -53,9 +53,28 @@ Windows Event Log Analysis
 ## <a href="https://elearning.securityblue.team/public/lab-certificate/196b7f78-2c5f-4a73-a456-acc55d73f8f4">Splunk Investigation 1</a>
 Conduct analysis of malicious activity using Splunk.
 
-## <a href=""></a>
-## <a href=""></a>
-## <a href=""></a>
-## <a href=""></a>
-## <a href=""></a>
-## <a href=""></a>
+## <a href="https://elearning.securityblue.team/public/lab-certificate/e56b58bc-d4e0-49fc-9883-2300e1a174ed">Splunk Investigation 2</a>
+Conduct analysis of malicious activity using Splunk.
+
+## <a href="https://elearning.securityblue.team/public/lab-certificate/47fcbe86-6367-46d8-a095-cf94930ebcd4">Splunk Investigation 3</a>
+Conduct analysis of malicious activity using Splunk.
+
+## <a href="https://elearning.securityblue.team/public/lab-certificate/e2ddfae9-7386-4116-9583-944b071cb46a">Splunk Investigation 4</a>
+Conduct analysis of malicious activity using Splunk.
+
+# Incident Response
+## <a href="https://elearning.securityblue.team/public/lab-certificate/730caf39-a177-43c1-ab73-560abadd4eb2">Wireshark Network Investigations</a>
+Put your network analysis skills to the test!
+
+## <a href="https://elearning.securityblue.team/public/lab-certificate/765557f5-ff76-4ff2-8292-53cc75991027">CMD and PowerShell For Response</a>
+Execute basic incident response commands and analyse the output.
+
+## <a href="https://elearning.securityblue.team/public/lab-certificate/ffa0cc81-58f4-4940-a951-94de36d7c19f">DeepBlueCLI For Event Log Analysis</a>
+Use DeepBlueCLI to quickly triage Windows Event logs for signs of malicious activity.
+
+<a href="https://elearning.securityblue.team/public/lab-certificate/97449d84-2ab5-4a82-853c-e4311739b033">TheHive: Case Management</a>
+Use TheHive case management tool to investigate cases, tasks, IOCs, and more.
+
+# Threat Intelligence
+<a href="https://elearning.securityblue.team/public/lab-certificate/36fe6660-8536-4d29-8e6a-793dbc8c0eac">Threat Intel Platform: MISP</a>
+Get hands-on with MISP and conduct threat intelligence analysis and research using this TIP.
